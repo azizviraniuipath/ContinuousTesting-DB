@@ -1,3 +1,9 @@
 {
-  "issueKeyTestcaseValues": {}
+  "issueKeyTestcaseValues": {},
+  "testManagerBasePath": "https://staging.uipath.com/azizvirani/defaulttenant/testmanager_",
+  "defaultProject": {
+    "id": "699ee6c3-c951-0000-fa53-0b45f313a381",
+    "name": "AppTesting_Demo-Oct2023",
+    "key": "APP"
+  }
 }
