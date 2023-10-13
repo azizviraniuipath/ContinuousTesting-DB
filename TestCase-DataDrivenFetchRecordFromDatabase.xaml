@@ -176,6 +176,6 @@
         </uta:VerifyExpressionWithOperator.SecondExpression>
       </uta:VerifyExpressionWithOperator>
     </Sequence>
-    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="449.6,142.4" sap2010:WorkflowViewState.IdRef="LogMessage_2" Message="[&quot;Test Ended.&quot;]" />
+    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="449.6,142.4" sap2010:WorkflowViewState.IdRef="LogMessage_2" Message="[&quot;Test Ended&quot;]" />
   </Sequence>
 </Activity>
