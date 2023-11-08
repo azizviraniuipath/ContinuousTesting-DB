@@ -1,5 +1,6 @@
 {
   "name": "Database Testing",
+  "projectId": "00141315-1a82-4aeb-9c4e-adebaa7ed7e1",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
@@ -60,7 +61,8 @@
         "fileName": "TestCase-DataDrivenFetchRecordFromDatabase.xaml"
       }
     ],
-    "modernBehavior": true
+    "modernBehavior": true,
+    "saveToCloud": false
   },
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
